@@ -313,6 +313,21 @@ body {
         padding: 30px 0 50px;
     }
 }
+@media (max-width: 375px) {
+    .top__img-l {
+        width: 185px;
+    }
+    .top__content {
+        width: 200px;
+        padding: 20px 0 0;
+    }
+    .top__title {
+        font-size: 18px;
+    }
+    .top__text {
+        font-size: 10px;
+    }
+}
 
 @media (max-width: 360px) {
     .top__img-l {
