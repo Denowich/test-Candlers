@@ -344,6 +344,12 @@ body {
     }
 }
 
+@media (max-width: 670px) {
+    .about__list {
+        padding-left: 30px;
+    }
+}
+
 @media (max-width: 640px) {
     .container {
         padding: 0 10px;
