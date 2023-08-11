@@ -472,6 +472,7 @@ body {
     .about {
         padding-top: 25px;
         padding-bottom: 20px;
+        overflow: hidden;
     }
 }
 
