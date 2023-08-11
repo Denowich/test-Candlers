@@ -462,7 +462,7 @@ body {
     .top__text {
         font-size: 10px;
     }
-}
+
 
     .about__content {
         min-width: 250px;
@@ -475,7 +475,7 @@ body {
         margin-bottom: 10px;
     }
     .about__list {
-        margin-left: 6px;
+        padding-left: 15px;
         padding-bottom: 40px;
         gap: 0 20px;
     }
@@ -483,6 +483,9 @@ body {
         padding-top: 25px;
         padding-bottom: 20px;
         overflow: hidden;
+    }
+    .about__item-img--1 {
+        width: 100px;
     }
 }
 
