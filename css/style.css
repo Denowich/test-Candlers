@@ -455,9 +455,11 @@ body {
     .top__text {
         font-size: 10px;
     }
+}
 
+@media (max-width: 375px) {
     .about__content {
-        min-width: 300px;
+        min-width: 255px;
     }
     .about__title {
         font-size: 18px;
