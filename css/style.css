@@ -457,9 +457,9 @@ body {
     }
 }
 
-@media (max-width: 375px) {
+@media (max-width: 380px) {
     .about__content {
-        min-width: 255px;
+        min-width: 260px;
     }
     .about__title {
         font-size: 18px;
@@ -467,7 +467,7 @@ body {
     }
     .about__list {
         margin-left: 6px;
-        padding-bottom: 30px;
+        padding-bottom: 40px;
     }
     .about {
         padding-top: 25px;
